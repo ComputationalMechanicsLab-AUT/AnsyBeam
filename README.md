@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="screenshots/logo.png" width="600">
+</p>
 # AnsyBeam v1.0.0
 
 **AnsyBeam** is a MATLAB-based educational tool for interactive planar Euler--Bernoulli beam analysis, visualisation, and reporting.
