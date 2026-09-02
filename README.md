@@ -44,7 +44,7 @@ Available package includes:
 
 ### GUI Overview
 
-![GUI Overview](screenshots/GUI.png)
+![GUI Overview](screenshots/AnsyBeam_GUI.png)
 
 ### Sample Model
 
@@ -52,15 +52,15 @@ Available package includes:
 
 ### Input Data
 
-![Input Data](screenshots/input.png)
+![Input Data](screenshots/AnsyBeam_input.png)
 
 ### Verification Geometry
 
-![Verification Geometry](screenshots/Verify.png)
+![Verification Geometry](screenshots/AnsyBeam_verify.png)
 
 ### Analysis Results
 
-![Analysis Results](screenshots/results.png)
+![Analysis Results](screenshots/AnsyBeam_output.png)
 
 ## Copyright
 
