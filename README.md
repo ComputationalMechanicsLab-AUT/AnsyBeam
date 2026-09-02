@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="600">
+  <img src="screenshots/beam_icon.png" width="600">
 </p>
 # AnsyBeam v1.0.0
 
