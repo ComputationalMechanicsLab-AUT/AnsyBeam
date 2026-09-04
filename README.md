@@ -37,7 +37,7 @@ Available package includes:
 
 ## Documentation
 
-- [User Manual](docs/AnsyBeam_user_manual_1.pdf)
+- [User Manual](docs/AnsyBeam_user_manual.pdf)
 
 ## Example Report
 
