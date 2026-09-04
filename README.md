@@ -63,7 +63,7 @@ Available package includes:
 
 ### Analysis Results
 
-![Analysis Results](screenshots/AnsyBeam_output.png)
+![Analysis Results](screenshots/AnsyBeam_output1.png)
 
 ## Copyright
 
