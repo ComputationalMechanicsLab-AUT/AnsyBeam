@@ -47,7 +47,7 @@ Available package includes:
 
 ### GUI Overview
 
-![GUI Overview](screenshots/AnsyBeam_GUI_1.png)
+![GUI Overview](screenshots/AnsyBeam_GUI.png)
 
 ### Sample Model
 
@@ -63,7 +63,7 @@ Available package includes:
 
 ### Analysis Results
 
-![Analysis Results](screenshots/AnsyBeam_output_1.png)
+![Analysis Results](screenshots/AnsyBeam_output.png)
 
 ## Copyright
 
