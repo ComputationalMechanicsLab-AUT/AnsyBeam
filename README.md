@@ -67,4 +67,5 @@ Available package includes:
 
 ## Copyright
 
-© 2026 Auckland University of Technology (AUT). All rights reserved.
+Developed by Dr. Vaishakh Kottila Veedu, Auckland University of Technology (AUT).
+Copyright © 2026 KVV. All rights reserved.
