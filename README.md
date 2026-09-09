@@ -7,6 +7,7 @@
 
 The tool is designed to support teaching and learning in structural analysis by allowing students to define, verify, analyse, and visualise simple beam structures.
 
+It is intended for students, educators, and anyone learning or demonstrating fundamental beam-analysis concepts.
 ## Purpose
 
 AnsyBeam was developed to help students connect theoretical beam analysis concepts with visual and computational results. It provides an interactive environment where users can enter beam data, modify models, observe structural behaviour, and generate analysis reports.
@@ -20,7 +21,7 @@ AnsyBeam was developed to help students connect theoretical beam analysis concep
 - Apply nodal point loads and nodal moments
 - Apply uniformly distributed loads
 - Verify beam geometry before analysis
-- Analyse planar Euler--Bernoulli beam structures
+- Analyse planar Euler-Bernoulli beam structures
 - View nodal deflections, rotations, support reactions, shear forces, and bending moments
 - Visualise shear force diagrams, bending moment diagrams, and deflected beam shapes
 - Export PDF analysis reports
@@ -34,6 +35,14 @@ Available package includes:
 - Windows standalone installer: `AnsyBeam_Windows_Installer.exe`
 
 > MATLAB source code is not publicly distributed in this repository.
+> 
+## Quick Start
+
+1. Download `AnsyBeam_Windows_Installer.exe` from the
+   [latest release](https://github.com/ComputationalMechanicsLab-AUT/AnsyBeam/releases/latest).
+2. Run the installer on a Windows computer.
+3. Open AnsyBeam and refer to the [User Manual](docs/AnsyBeam_user_manual.pdf).
+4. Use the sample model and report as a guide to creating and analysing a beam model.
 
 ## Documentation
 
@@ -65,7 +74,16 @@ Available package includes:
 
 ![Analysis Results](screenshots/AnsyBeam_output_2.png)
 
+## Intended Use and Limitations
+
+AnsyBeam is intended for educational use, teaching demonstrations, and learning activities in structural analysis. It is not a substitute for professional
+engineering analysis, design software, independent verification, or engineering judgement.
+
+The current implementation considers planar Euler–Bernoulli beam models.
+Users should confirm that modelling assumptions, boundary conditions, material properties, units, and loading are appropriate for their application.
+
 ## Copyright
 
-Developed by Dr. Vaishakh Kottila Veedu, Auckland University of Technology (AUT).
-Copyright © 2026 KVV. All rights reserved.
+Developed by Dr Vaishakh Kottila Veedu, Auckland University of Technology (AUT).
+
+Copyright © 2026 Vaishakh Kottila Veedu. All rights reserved.
