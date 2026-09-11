@@ -30,16 +30,20 @@ AnsyBeam was developed to help students connect theoretical beam analysis concep
 
 Download the latest version from the [GitHub Releases page](https://github.com/ComputationalMechanicsLab-AUT/AnsyBeam/releases).
 
-Available package includes:
+Available packages include:
 
 - Windows standalone installer: `AnsyBeam_Windows_Installer.exe`
+- macOS standalone installer: `AnsyBeam_macOS_Installer.zip`
 
 > MATLAB source code is not publicly distributed in this repository.
 > 
 ## Quick Start
 
-1. Download `AnsyBeam_Windows_Installer.exe` from the
-   [latest release](https://github.com/ComputationalMechanicsLab-AUT/AnsyBeam/releases/latest).
+1. Download the appropriate installer from the [latest release](https://github.com/ComputationalMechanicsLab-AUT/AnsyBeam/releases).
+
+   - Windows: `AnsyBeam_Windows_Installer.exe`
+   - macOS: `AnsyBeam_macOS_Installer.zip`
+  
 2. Run the installer on a Windows computer.
 3. Open AnsyBeam and refer to the [User Manual](docs/AnsyBeam_user_manual.pdf).
 4. Use the sample model and report as a guide to creating and analysing a beam model.
